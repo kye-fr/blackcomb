@@ -1,6 +1,7 @@
 .serif_logo_font
   {
     font-family: 'Playfair Display', serif;
+    color: #FFFFFF;
   }
 
 .light_font
@@ -10,10 +11,18 @@
     color: #001524;
   }
 
+.light_font_white
+  {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 200;
+    color: #FFFFFF;
+  }
+
 .logo_font
   {
     font-family: 'Montserrat', sans-serif;
-    color: #26272b;
+    color: #FFFFFF;
+
   }
 
 
