@@ -1,27 +1,6 @@
-.serif_logo_font
-  {
-    font-family: 'Playfair Display', serif;
-    color: #FFFFFF;
-  }
-
-.light_font
-  {
-    font-family: 'JetBrains Mono', monospace;
-    font-weight: 200;
-    color: #001524;
-  }
-
-.light_font_white
+.secondary_font
   {
     font-family: 'JetBrains Mono', monospace;
     font-weight: 200;
     color: #FFFFFF;
   }
-
-.logo_font
-  {
-    font-family: 'Montserrat', sans-serif;
-    color: #FFFFFF;
-  }
-
-
